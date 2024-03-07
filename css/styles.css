@@ -1,0 +1,14 @@
+#well {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+
+}
+
+
+#btnReestablecer {
+    width: 200px;
+    height: 100px;
+    background-image: url("/img/cintapoli.png");
+    color: bisque;
+}
+
